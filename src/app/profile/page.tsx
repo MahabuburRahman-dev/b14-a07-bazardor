@@ -10,7 +10,9 @@ export default async function ProfilePage() {
     <div className="container page-shell profile-page">
       <span className="eyebrow">YOUR ACCOUNT</span>
       <h1>আমার প্রোফাইল</h1>
-      <p className="section-sub">আপনার অ্যাকাউন্টের তথ্য দেখুন ও আপডেট করুন।</p>
+      <p className="section-sub">
+        আপনার অ্যাকাউন্ট এর তথ্য দেখুন ও আপডেট করুন।
+      </p>
       <div className="profile-card">
         <div className="profile-user">
           <div className="profile-avatar">

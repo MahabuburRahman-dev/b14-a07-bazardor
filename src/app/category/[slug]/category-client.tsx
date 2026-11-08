@@ -30,7 +30,7 @@ export default function CategoryClient({
         <div>
           <span className="eyebrow">PRODUCT CATEGORY</span>
           <h1>{category.nameBn}</h1>
-          <p>এই ক্যাটাগরির সকল পণ্যের আজকের বাজারদাম ও মূল্য পরিবর্তন</p>
+          <p>এই ক্যাটাগরির সকল পণ্যের আজকের বাজারদর ও মূল্য পরিবর্তন</p>
         </div>
       </section>
       <div className="list-toolbar">
