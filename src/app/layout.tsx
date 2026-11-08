@@ -7,7 +7,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "বাজার দর — আজকের বাজারের দাম এক নজরে",
   description:
-    "বাংলাদেশের নিত্যপ্রয়োজনীয় পণ্যের বাজারদর, দাম বাড়া-কমা এবং বাজারভিত্তিক মূল্য।",
+    "বাংলাদেশের নিত্যপ্রয়োজনীয় পণ্যের বাজারদর, মূল্য বাড়া-কমা এবং বাজারভিত্তিক মূল্য।",
 };
 export default async function RootLayout({
   children,
