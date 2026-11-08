@@ -34,7 +34,7 @@ export default function ProductDetails({ product }: { product: Product }) {
         <span>{product.nameBn}</span>
       </div>
       <Link href="/" className="back-link">
-        <ArrowLeft size={16} /> সব পণ্যে ফিরে যান
+        <ArrowLeft size={16} /> সকল পণ্যে ফিরে যান
       </Link>
       <section className="detail-summary">
         <div className="detail-emoji">
